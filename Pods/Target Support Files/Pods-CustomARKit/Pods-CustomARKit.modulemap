@@ -1,0 +1,6 @@
+framework module Pods_CustomARKit {
+  umbrella header "Pods-CustomARKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_CustomARKitTests {
+  umbrella header "Pods-CustomARKitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
